@@ -1,1 +1,1 @@
-This is some Java practice code.
+Java practice code.
