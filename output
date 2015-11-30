@@ -1,0 +1,12 @@
+test!
+Hello. (normal)
+hello. (static)
+true
+true
+true
+-----> 127
+-----> 126
+-----> 7
+true
+false
+true
